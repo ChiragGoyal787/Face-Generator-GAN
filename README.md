@@ -26,5 +26,5 @@ pip install -r requirements.txt
 - Move to the project directory using `cd Face-Generator-GAN`
 - Run the filename: Face_Generation.ipynb
 
-
-
+# Dataset Link
+[Celebrities](https://www.kaggle.com/jessicali9530/celeba-dataset)
