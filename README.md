@@ -20,7 +20,9 @@ pip install -r requirements.txt
 ```
 # Installation:
 
-- In order to run the project on the local computer, make sure we have git installed on the local computer. Type `git --version` in the cmd, if the version number appear then you can proceed further with cloning the repo using `git clone https://github.com/kshitiz-1225/Face-Generator-GAN.git`. Refer to the documentation for installing git in case you don't have
+- In order to run the project on the local computer, make sure we have git installed on the local computer.
+- Type `git --version` in the cmd, if the version number appear then you can proceed further with cloning the repo.Refer to the documentation for installing git in case you don't have git installed.
+- To clone type `git clone https://github.com/kshitiz-1225/Face-Generator-GAN.git`
 - Move to the project directory using `cd Face-Generator-GAN`
 - Run the filename: Face_Generation.ipynb
 
